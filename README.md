@@ -1,4 +1,4 @@
 # bug-free-octo-sniffle
-elliptic curve stuff
+encryption stuff
 
-Working towards an explainer for elliptic curve cryptography
+Working towards an explainer for asymmetric encryption
