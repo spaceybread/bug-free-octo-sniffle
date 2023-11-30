@@ -39,12 +39,12 @@ def largestTwoPrime(arr):
                 return [p, q]
 
 
-pri = 1000
+pri = 200
 #pick pri such that pri**2 >> m
 #leave room for error, pri is the upper limit, it is not always the largest prime that will be used
 
 
-out = largestTwoPrime(prime(200))
+out = largestTwoPrime(prime(pri)))
 
 p =  out[0] # prime
 q =  out[1] # prime
